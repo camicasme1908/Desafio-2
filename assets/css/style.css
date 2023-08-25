@@ -1,0 +1,38 @@
+.box1{
+    background-color: lawngreen;
+    padding: 10px;
+}
+.box2{
+    background-color: white;
+    padding: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: centerCE;
+}
+.imagen{
+    background-color: white;
+    width: 20% 
+}
+.texto{
+    color: orange;
+width: 80%;
+font-size: xx-large;
+}
+.titulo{
+    background-color: aqua;
+    color: orange;
+    padding: 10px;
+    justify-content: center;
+}
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: chartreuse;
+    color: black;
+    text-align: center;
+    font-weight: 900;
+}
+.header h1 {
+    margin: 0px;
+}
+
